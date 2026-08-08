@@ -1,0 +1,1 @@
+ALTER TABLE `appointments` MODIFY COLUMN `type` enum('appointment','rest','other') NOT NULL DEFAULT 'appointment';

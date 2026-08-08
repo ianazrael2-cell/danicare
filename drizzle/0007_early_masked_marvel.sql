@@ -1,0 +1,1 @@
+ALTER TABLE `appointments` ADD `isConfirmed` int DEFAULT 0 NOT NULL;

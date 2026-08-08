@@ -1,0 +1,62 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1769597872295,
+      "tag": "0000_black_marvex",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1769761837552,
+      "tag": "0001_unknown_midnight",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1770275051791,
+      "tag": "0002_glamorous_iceman",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1770363715887,
+      "tag": "0003_dashing_mach_iv",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1772868094783,
+      "tag": "0004_curly_king_cobra",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1774076579363,
+      "tag": "0005_long_namorita",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1774140097749,
+      "tag": "0006_noisy_chimera",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "5",
+      "when": 1775132962059,
+      "tag": "0007_early_masked_marvel",
+      "breakpoints": true
+    }
+  ]
+}
